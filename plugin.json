@@ -1,0 +1,7 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "temu-ali-price-scout",
+  "version": "0.1.0",
+  "description": "Budget-capped read-only product search and price comparison for Temu and AliExpress.",
+  "keywords": ["shopping", "price-comparison", "temu", "aliexpress", "product-search"]
+}
